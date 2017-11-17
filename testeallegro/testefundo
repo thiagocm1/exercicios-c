@@ -1,0 +1,24 @@
+#include <allegro.h>
+#include <stdio.h>
+#include <conio.h>
+#define WEIGHT 680
+#define HEIGHT 420
+
+
+
+
+
+
+
+
+
+int main()
+{
+    allegro_init();
+    install_mouse();
+    install_timer();
+	install_keyboard();
+    setup_window();
+	return 0;
+}
+END_OF_MAIN();
