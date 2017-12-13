@@ -1,0 +1,47 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "4.0\n6.0\n5.0\n25\n",
+      "output": "reprovado por faltas\n"
+    },
+    {
+      "category": "public",
+      "input": "4.0\n2.0\n3.0\n3\n",
+      "output": "reprovado por nota\n"
+    },
+    {
+      "category": "public",
+      "input": "4.0\n6.0\n5.0\n5\n",
+      "output": "prova final\n"
+    },
+    {
+      "category": "public",
+      "input": "10.0\n10.0\n10.0\n7\n",
+      "output": "aprovado por media\n"
+    }
+  ],
+  "c725e71dcef480d72715a097d67ca630": {
+    "timestamp": "2016-03-03T18:33:57.505790",
+    "feedback": "",
+    "summary": "...FF.F.F."
+  },
+  "23fe71a57e7e8572ebf55a2f5dfa524b": {
+    "timestamp": "2016-03-03T18:32:23.744100",
+    "feedback": "",
+    "summary": ".....F.F.F"
+  },
+  "cc6ac588e1ee569facd69347292e5f7b": {
+    "timestamp": "2016-03-03T18:32:04.885810",
+    "feedback": "",
+    "summary": ".....F.F.F"
+  },
+  "a8cd694f2044ecec6d9e9d1ab4093cfc": {
+    "timestamp": "2016-03-03T18:34:44.042940",
+    "feedback": "",
+    "summary": ".........."
+  },
+  "activity_revision": "1.1.0",
+  "key": "16E961FA000000",
+  "last_commit": "a8cd694f2044ecec6d9e9d1ab4093cfc"
+}

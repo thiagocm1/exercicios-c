@@ -1,0 +1,18 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "Dalton\n",
+      "name": "exemplo",
+      "output": "Dalton\nDalton\nDalton\n"
+    }
+  ],
+  "activity_revision": "1.1.5",
+  "4bc599d7adafa547fee6cf6ffdfb3dac": {
+    "timestamp": "2016-05-10T13:38:27.128420",
+    "feedback": "",
+    "summary": ".."
+  },
+  "key": "11CC130A000000",
+  "last_commit": "4bc599d7adafa547fee6cf6ffdfb3dac"
+}

@@ -1,0 +1,17 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "42\n17\n",
+      "output": "An\u00e1lise da Turma\n===\nN\u00famero de aprovados? N\u00famero de reprovados? ---\nTotal de alunos na turma: 59\nAprovados: 42 = 71.2%\nReprovados: 17 = 28.8%\n"
+    }
+  ],
+  "164815f7e2db2ce1c27da19131bfbc91": {
+    "timestamp": "2016-02-19T20:17:06.761270",
+    "feedback": "",
+    "summary": "FFFF"
+  },
+  "activity_revision": "1.0.0",
+  "key": "16FB9C3A000000",
+  "last_commit": "164815f7e2db2ce1c27da19131bfbc91"
+}

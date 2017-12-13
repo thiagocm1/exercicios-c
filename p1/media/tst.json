@@ -1,0 +1,25 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "10.0\n8.0\n6.0\n20\n40\n",
+      "name": "exemplo",
+      "output": "M\u00e9dia Final: 7.6\n"
+    }
+  ],
+  "fffa937fb78fd05089a70af8cb0f0f6e": {
+    "timestamp": "2016-02-19T18:28:35.015140",
+    "feedback": "",
+    "summary": "...v."
+  },
+  "filename": "media.py",
+  "tst_files": [],
+  "activity_revision": "1.1.1",
+  "key": "14D1826A000000",
+  "last_commit": "f03127ce5140fe061e3cf4217a13b51e",
+  "f03127ce5140fe061e3cf4217a13b51e": {
+    "timestamp": "2016-02-25T16:27:01.951810",
+    "feedback": "",
+    "summary": "....."
+  }
+}

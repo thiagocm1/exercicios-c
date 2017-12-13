@@ -1,0 +1,37 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "0.1\n6.0\n0.3\n5.0\n0.6\n7.0\n",
+      "output": "== Est\u00e1gio 1 ==\nPeso? Nota? == Est\u00e1gio 2 ==\nPeso? Nota? == Est\u00e1gio 3 ==\nPeso? Nota? == Resultados ==\nM\u00e9dia parcial: 6.3\nNota na final, pra m\u00e9dia 5.0 = 3.0\nNota na final, pra m\u00e9dia 7.0 = 8.0\n"
+    }
+  ],
+  "a04e9db4b80d0f7152812a74b0137ace": {
+    "timestamp": "2016-05-10T13:56:02.785090",
+    "feedback": "",
+    "summary": ".FF"
+  },
+  "activity_revision": "1.1.0",
+  "77b173d6387fe25376d5f564fe579d62": {
+    "timestamp": "2016-05-10T13:55:53.522640",
+    "feedback": "",
+    "summary": "sss"
+  },
+  "key": "17A3408A000000",
+  "last_commit": "f1c337135bacb5394e917d2c90bb5dac",
+  "f1c337135bacb5394e917d2c90bb5dac": {
+    "timestamp": "2016-05-10T13:57:08.981670",
+    "feedback": "",
+    "summary": ".F."
+  },
+  "bcc32aa6e9c6f74734eb6b8f4720df04": {
+    "timestamp": "2016-05-10T13:51:45.618350",
+    "feedback": "",
+    "summary": ".FF"
+  },
+  "72a707a08edceb56d6ead9543596464f": {
+    "timestamp": "2016-05-10T13:56:56.709890",
+    "feedback": "",
+    "summary": "FFF"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "1.5\n1\n",
+      "output": "1.5. Ainda n\u00e3o aprovado.\n"
+    },
+    {
+      "category": "public",
+      "input": "10\n2\n6.0\n",
+      "output": "8.4. Aprovado.\n"
+    },
+    {
+      "category": "public",
+      "input": "6.0\n2\n5.0\n",
+      "output": "5.6. Ainda n\u00e3o aprovado.\n"
+    }
+  ],
+  "activity_revision": "1.0.4",
+  "key": "16399B1A000000"
+}

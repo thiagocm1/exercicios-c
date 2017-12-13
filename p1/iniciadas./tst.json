@@ -1,0 +1,32 @@
+{
+  "95ed3f29278f77b75d4d83c65ed6a206": {
+    "timestamp": "2016-03-16T11:47:32.324160",
+    "feedback": "",
+    "summary": "FFFFFF"
+  },
+  "tests": [
+    {
+      "category": "public",
+      "input": "7\nquantas\ndestas\npalavras\nsao\niniciadas\npor\nconsoantes\n",
+      "output": "total de palavras: 7\niniciadas por consoantes: 6 (85.71%)\n"
+    },
+    {
+      "category": "public",
+      "input": "4\nAlvaro\niniciadas\npor\nonsoantes\n",
+      "output": "total de palavras: 4\niniciadas por consoantes: 1 (25.00%)\n"
+    }
+  ],
+  "342207b180633f02b6f7bb2ed17a435e": {
+    "timestamp": "2016-03-16T11:54:25.616820",
+    "feedback": "",
+    "summary": "......"
+  },
+  "48611195d953bbd936f6dc00073e0f1c": {
+    "timestamp": "2016-03-16T11:40:07.929330",
+    "feedback": "",
+    "summary": "FFFFFF"
+  },
+  "activity_revision": "1.1.2",
+  "key": "13B8C1AA000000",
+  "last_commit": "342207b180633f02b6f7bb2ed17a435e"
+}

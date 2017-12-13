@@ -1,0 +1,11 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "algo\n",
+      "output": "aallggoo\nsenha insegura\n"
+    }
+  ],
+  "activity_revision": "1.1.1",
+  "key": "1071E7BA000000"
+}

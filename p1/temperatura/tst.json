@@ -1,0 +1,49 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "1\n",
+      "output": "Fahrenheit: 1.000 F\nCelsius: -17.222 C\nKelvin: 255.928 K\n"
+    },
+    {
+      "category": "public",
+      "input": "74.3\n",
+      "output": "Fahrenheit: 74.300 F\nCelsius: 23.500 C\nKelvin: 296.650 K\n"
+    }
+  ],
+  "f9a06701b2da32468128b9a3360ed8b7": {
+    "timestamp": "2016-05-10T17:49:48.834050",
+    "feedback": "",
+    "summary": "...."
+  },
+  "d325ab6d862e53d53d51721e3f579371": {
+    "timestamp": "2016-05-10T15:48:20.182270",
+    "feedback": "",
+    "summary": "FFFF"
+  },
+  "0d922ccd30c5e28e7d16c9d6e2cad17c": {
+    "timestamp": "2016-02-25T13:12:27.247360",
+    "feedback": "",
+    "summary": "oooo"
+  },
+  "8292c01357a3518a54c603071a18ee5d": {
+    "timestamp": "2016-05-10T17:44:44.578850",
+    "feedback": "",
+    "summary": "FFFF"
+  },
+  "filename": "conversao.py",
+  "tst_files": [],
+  "activity_revision": "1.1.1",
+  "key": "140C76FA000000",
+  "last_commit": "f9a06701b2da32468128b9a3360ed8b7",
+  "9c750c978a89d7333aef2510742dadce": {
+    "timestamp": "2016-05-10T17:46:36.221910",
+    "feedback": "",
+    "summary": "FFFF"
+  },
+  "b046d0ff0e9727b0b4b33f934142079a": {
+    "timestamp": "2016-05-10T17:49:13.791520",
+    "feedback": "",
+    "summary": "...."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "tests": [
+    {
+      "category": "public",
+      "input": "MXV1234 MOW4321 MMV8062\n",
+      "output": "MXV1234: fevereiro\nMOW4321: janeiro\nMMV8062: janeiro\n"
+    }
+  ],
+  "activity_revision": "1.0.0",
+  "key": "1111773A000000"
+}
